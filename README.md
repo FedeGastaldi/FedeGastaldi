@@ -94,7 +94,7 @@ I am a software development technician student, currently in the final stages of
 <a href="https://x.com/Fedev__" >
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" >
 </a>
-<a href="" >
+<a href="mailto:gastaldifederico69@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/fedegastaldi/">
