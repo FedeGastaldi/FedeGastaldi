@@ -88,16 +88,16 @@ I am a software development technician student, currently in the final stages of
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
+<a href= "https://www.instagram.com/fedev___/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@vapixel_" >
+<a href="https://x.com/Fedev__" >
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" >
 </a>
-<a href="https://www.twitch.tv/valenwerle" >
+<a href="" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.youtube.com/@ValenWerle">
+<a href="https://www.linkedin.com/in/fedegastaldi/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 
