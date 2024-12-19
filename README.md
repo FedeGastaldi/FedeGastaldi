@@ -84,6 +84,8 @@ I am a software development technician student, currently in the final stages of
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 
+<br></br>
+
 
 ## Check out my Social Media
 
@@ -100,6 +102,7 @@ I am a software development technician student, currently in the final stages of
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 
+<br></br>
 
 <h2>Github stats :bar_chart:</h2>
 
