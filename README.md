@@ -110,6 +110,13 @@ I am a software development technician student, currently in the final stages of
 
 <p align="center"><img src="https://profile-counter.glitch.me/{FedeGastaldi}/count.svg" alt="FedeGastaldi :: Visitor's Count" /></p>
 
+<p align="left">
+
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FedeGastaldi&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FedeGastaldi&theme=gruvbox&hide_border=true" />
+  
+</p>
+
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeGastaldi&langs_count=10&theme=tokyonight&layout=compact" alt="FedeGastaldi :: Top Langs" /></p>
